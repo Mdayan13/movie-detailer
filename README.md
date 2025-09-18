@@ -1,6 +1,6 @@
 <div align="center">
   <br />
-      <img src="https://raw.githubusercontent.com/adrianhajdin/react-movies/main/public/readme/hero.png" alt="Project Banner">
+      <img src="https://pbs.twimg.com/media/GxJRH5yWQAAgWjn?format=jpg&name=small" alt="Project Banner">
   <br />
   
   <div>
